@@ -888,13 +888,13 @@ input[type='checkbox'] {
 	text-align: left;
 }
 
-.cards-1 .fa-stack .hexagon {
+/* .cards-1 .fa-stack .hexagon {
 	position: absolute;
 	width: 6rem;
 	height: 6rem;
 	background: url('../images/hexagon-green.svg') center center no-repeat;
 	background-size: 6rem 6rem;
-}
+} */
 
 .cards-1 .fa-stack-1x {
 	color: #fff;
@@ -1676,7 +1676,7 @@ input[type='checkbox'] {
 	margin-left: 0.125rem;
 }
 
-.basic-2 .fa-stack .hexagon {
+/* .basic-2 .fa-stack .hexagon {
 	position: absolute;
 	left: 0;
 	width: 1.75rem;
@@ -1684,12 +1684,12 @@ input[type='checkbox'] {
 	background: url('../images/hexagon-green.svg') center center no-repeat;
 	background-size: 1.75rem 1.75rem;
 	transition: all 0.2s ease;
-}
+} */
 
-.basic-2 .fa-stack:hover .hexagon {
+/* .basic-2 .fa-stack:hover .hexagon {
 	background: url('../images/hexagon-white.svg') center center no-repeat;
 	background-size: 1.75rem 1.75rem;
-}
+} */
 
 .basic-2 .fa-stack-1x {
 	font-size: 0.6875rem;
@@ -1818,9 +1818,9 @@ input[type='checkbox'] {
 	height: 3.25rem;
 }
 
-.form-2 .fa-stack:hover .hexagon {
+/* .form-2 .fa-stack:hover .hexagon {
 	background-size: 3.25rem 3.25rem;
-}
+} */
 
 .form-2 .fa-stack-1x {
     font-size: 1.5rem;
@@ -2245,11 +2245,11 @@ a:hover.back-to-top {
 		/* font-size: 0.8125rem; */
 	}
 
-	.navbar-custom .fa-stack:hover .hexagon {
-		/* background: url('../images/hh.svg') center center no-repeat; */
+	/* .navbar-custom .fa-stack:hover .hexagon {
+	
 		background-size: 1.625rem 1.625rem;
 	}
-	
+	 */
 	.navbar-custom .fa-stack-1x {
 	font-size: 16px;
     background-color: #a60202;
